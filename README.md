@@ -93,7 +93,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out to your- anymouspanda144@gmail.com
+For any questions or suggestions, feel free to reach out to your- anonymouspanda144@gmail.com
 
 ---
 
