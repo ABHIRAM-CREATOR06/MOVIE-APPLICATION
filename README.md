@@ -14,7 +14,7 @@ Welcome to the Movie Suggestion Machine! This project is a GUI-based application
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/movie-suggestion-machine.git
+    git clone https://github.com/ABHIRAM-CREATOR06/movie-suggestion-machine.git
     cd movie-suggestion-machine
     ```
 
@@ -93,7 +93,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out to - anonymouspanda144@gmail.com
+For any questions or suggestions, feel free to reach out to - abhirampraneeth2005@gmail.com or akhilshaipkl@gmail.com
 
 ---
 
