@@ -96,5 +96,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For any questions or suggestions, feel free to reach out to - abhirampraneeth2005@gmail.com or akhilshaipkl@gmail.com
 
 ---
+![GitLab Contributors](https://img.shields.io/gitlab/contributors/ABHIRAM-CREATOR06/MOVIE-APPLICATION)
 
 Happy coding! 😊
