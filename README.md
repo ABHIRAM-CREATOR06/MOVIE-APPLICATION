@@ -1,4 +1,4 @@
-# Movie Suggestion Machine
+# Movie Suggestion System
 
 Welcome to the Movie Suggestion Machine! This project is a GUI-based application that suggests movies based on genres, allows you to search for movies, and provides cast and crew information. It also includes features like light/dark mode and full-screen mode.
 
@@ -96,6 +96,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For any questions or suggestions, feel free to reach out to - abhirampraneeth2005@gmail.com or akhilshaipkl@gmail.com
 
 ---
-![GitLab Contributors](https://img.shields.io/gitlab/contributors/ABHIRAM-CREATOR06/MOVIE-APPLICATION)
+
 
 Happy coding! 😊
